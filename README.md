@@ -1,5 +1,5 @@
 # TODO-APP-SERVER
-- 書籍「基礎から学ぶ REACT/REACT HOOKS」に出てくるモックサーバーを実装した
+書籍「基礎から学ぶ REACT/REACT HOOKS」に出てくるモックサーバーを実装した
 
 ## 実行方法
 ```
